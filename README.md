@@ -12,6 +12,12 @@
 
 ## 25.04.2025
 
-- [ ] Heute möchte ich mich auf die Scrum OBA vorbereiten.
-- [ ] Heute möchte ich Scrum Aufträge im Modul 426.
-- [ ] Heute möchte ich an meiner Website weiterarbeiten.
+- [X] Heute möchte ich mich auf die Scrum OBA vorbereiten.
+- [X] Heute möchte ich Scrum Aufträge im Modul 426.
+- [X] Heute möchte ich an meiner Website weiterarbeiten.
+
+## 02.05.2025
+
+- [ ] Heute möchte ich im NoSQL Modul arbeiten
+- [ ] Heute möchte ich an meiner Webiste arbeiten
+- [ ] Heute möchte ich an Scrum arbeiten
