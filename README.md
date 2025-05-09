@@ -18,6 +18,12 @@
 
 ## 02.05.2025
 
-- [ ] Heute möchte ich im NoSQL Modul arbeiten
-- [ ] Heute möchte ich an meiner Webiste arbeiten
-- [ ] Heute möchte ich an Scrum arbeiten
+- [X] Heute möchte ich im NoSQL Modul arbeiten
+- [X] Heute möchte ich an meiner Webiste arbeiten
+- [X] Heute möchte ich an Scrum arbeiten
+
+## 09.05.2025
+
+- [ ] Heute möchte ich am Modul 254 arbeiten Handlungsziel 1
+- [ ] Heute möchte ich an einer Website die ich für einen Familien Mitglied machen muss weiterarbeiten.
+- [ ] Heute möchte ich 
