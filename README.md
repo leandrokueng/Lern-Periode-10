@@ -24,6 +24,12 @@
 
 ## 09.05.2025
 
-- [ ] Heute möchte ich am Modul 254 arbeiten Handlungsziel 1
-- [ ] Heute möchte ich an einer Website die ich für einen Familien Mitglied machen muss weiterarbeiten.
-- [ ] Heute möchte ich 
+- [X] Heute möchte ich am Modul 254 arbeiten Handlungsziel 1
+- [X] Heute möchte ich an einer Website die ich für einen Familien Mitglied machen muss weiterarbeiten.
+
+
+## 16.05.2025
+
+- [ ] Heute möchte ich das Handlungsziel 1 im Modul 254 machen
+- [ ] Heute möchte ich mit dem 2. Handlungsziel im Modul 254 anfangen
+- [ ] Heute möchte ich an der Maler website weiter programmieren
