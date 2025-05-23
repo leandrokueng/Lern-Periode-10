@@ -30,6 +30,12 @@
 
 ## 16.05.2025
 
-- [ ] Heute möchte ich das Handlungsziel 1 im Modul 254 machen
-- [ ] Heute möchte ich mit dem 2. Handlungsziel im Modul 254 anfangen
-- [ ] Heute möchte ich an der Maler website weiter programmieren
+- [X] Heute möchte ich das Handlungsziel 1 im Modul 254 machen
+- [X] Heute möchte ich mit dem 2. Handlungsziel im Modul 254 anfangen
+- [X] Heute möchte ich an der Maler website weiter programmieren
+
+## 23.05.2025
+
+- [ ] Heute möchte ich den Auftrag LA_0504_Verzweigung_Zusammenführung im Modul 254 machen
+- [ ] Heute möchte ich den Auftrag LA_0505_Prozesszerlegung im Modul 254 machen.
+- [ ] Heute möchte ich auf der Website weitere Bilder und auch das Logo hinzufügen.
