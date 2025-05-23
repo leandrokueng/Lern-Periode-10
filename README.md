@@ -36,6 +36,13 @@
 
 ## 23.05.2025
 
-- [ ] Heute möchte ich den Auftrag LA_0504_Verzweigung_Zusammenführung im Modul 254 machen
-- [ ] Heute möchte ich den Auftrag LA_0505_Prozesszerlegung im Modul 254 machen.
-- [ ] Heute möchte ich auf der Website weitere Bilder und auch das Logo hinzufügen.
+- [X] Heute möchte ich den Auftrag LA_0504_Verzweigung_Zusammenführung im Modul 254 machen
+- [X] Heute möchte ich den Auftrag LA_0505_Prozesszerlegung im Modul 254 machen.
+- [X] Heute möchte ich auf der Website weitere Bilder und auch das Logo hinzufügen.
+
+## 06.06.2025
+
+- [ ] Heute möchte ich an der Website weiterarbeiten
+- [ ] Heute möchte ich mit No Sql Datenbanken beschäftigen hauptsächlich mit MongoDB
+- [ ] Heute möchte ich an der No SQL LB weiterarbeiten.
+
